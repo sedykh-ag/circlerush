@@ -2,6 +2,8 @@
 
 Simple introductory C++ gamedev project. To be build in Visual Studio.
 
+![](https://github.com/sedykh-ag/circlerush/blob/main/demo.gif)
+
 ## Build instructions.
 * Configuration: Release (lags are imminent in Debug)
 * Platform: either x86 or x64
